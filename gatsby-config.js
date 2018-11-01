@@ -2,6 +2,7 @@ module.exports = {
     siteMetadata:{
         title: `Pandas Eating Lots`
     },
+    pathPrefix: "/gatsby-deploytest",
     plugins: [
         {
             resolve: `gatsby-source-filesystem`,
